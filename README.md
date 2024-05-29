@@ -19,6 +19,3 @@ Executa o test runner no modo de observação.
 
 Cria o aplicativo para produção na pasta `build`.\
 Criando a versão de produção, otimizando a construção para obter o melhor desempenho.
-
-## Aplicação
-#### Link de produção: [https://star-wars-planets-code-group.vercel.app/](https://star-wars-planets-code-group.vercel.app/)
